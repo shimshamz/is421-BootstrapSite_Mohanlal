@@ -3,3 +3,17 @@ body {
     	font-family: 'Roboto', sans-serif;
     	color: #ffffff;
 }
+
+.jumbotron {
+	background-image: url(aston.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 92vh;
+	display: flex;
+  	align-items: center;
+}
+
+.jumbo-text {
+	background-color: rgba(0, 0, 0, 0.6);
+	border-radius: 10px;
+}
