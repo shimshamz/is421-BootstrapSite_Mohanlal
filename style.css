@@ -17,3 +17,13 @@ body {
 	background-color: rgba(0, 0, 0, 0.6);
 	border-radius: 10px;
 }
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:hover {
+	color: #adadad;
+	text-decoration: none;
+}
